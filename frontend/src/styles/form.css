@@ -1,0 +1,70 @@
+.main-form {
+    padding-left: 20px;
+}
+
+.main-form .form-group {
+    padding-bottom: 10px;
+}
+
+.main-form .form-group input {
+    padding: 10px;
+    width: 100%;
+}
+
+.main-form .form-group label {
+    display: block;
+    padding: 5px;
+}
+
+.btn-submit {
+    width: 100%;
+    padding: 15px;
+    background-color: #333;
+    color: #eee;
+    border: none;
+}
+
+.btn-submit:hover {
+    background-color: rgb(80, 74, 74);
+}
+
+.btn-delete {
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(189, 13, 13);
+    color: #eee;
+    border: none;
+    margin-top: 2vh;
+}
+
+.btn-delete:hover {
+    background-color: rgb(114, 3, 3);
+}
+
+
+.box {
+    width: 90%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-options {
+    width: 100%;
+    margin-top: 0;
+    padding: 20px;
+    background-color: #444e;
+}
+
+@media (min-width: 728px) {
+    .btn-register {
+        width: 100%;
+    }
+
+    .box {
+        width: 50%;
+        margin-top: 100px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

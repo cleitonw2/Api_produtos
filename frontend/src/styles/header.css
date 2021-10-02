@@ -1,0 +1,48 @@
+.header-options {
+    width: 100%;
+    margin-top: 0;
+    padding: 20px;
+    background-color: #444e;
+}
+
+.btn-register-form {
+    background-color: green;
+    text-decoration: none;
+    padding: 14px;
+    color: black;
+    border-radius: 5px;
+}
+
+.btn-login-form {
+    background-color: rgb(103, 36, 228);
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.btn-home {
+    background-color: rgb(103, 36, 228);
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+
+.btn-edit {
+    background-color: rgb(103, 36, 228);
+    text-decoration: none;
+    padding: 9px;
+    color: black;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+
+.btn-esc {
+    background-color: rgb(228, 36, 36);
+    padding: 8px;
+    color: black;
+    border-radius: 9px;
+}

@@ -1,0 +1,12 @@
+.home {
+    padding-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5em;
+}
+
+.home p {
+    font-size: 25px;
+    color: rgb(53, 17, 172);
+    font-family: serif;
+}
